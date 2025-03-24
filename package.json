@@ -1,0 +1,21 @@
+{
+  "name": "automatedscreenshotcapturing",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.13.13",
+    "playwright": "^1.51.1",
+    "ts-node": "^10.9.2"
+  }
+}
