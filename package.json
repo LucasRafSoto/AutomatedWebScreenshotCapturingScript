@@ -12,10 +12,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "![img.png](img.png)",
   "dependencies": {
     "@types/node": "^22.13.13",
     "playwright": "^1.51.1",
     "ts-node": "^10.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasRafSoto/AutomatedWebScreenshotCapturingScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LucasRafSoto/AutomatedWebScreenshotCapturingScript/issues"
+  },
+  "homepage": "https://github.com/LucasRafSoto/AutomatedWebScreenshotCapturingScript#readme"
 }
